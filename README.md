@@ -1,4 +1,4 @@
-# Automatic-Fan-Contro
+# Automatic-Fan-Control
 Detect room temperature and turn on/off the fan using Arduino
 
 Components Required:
